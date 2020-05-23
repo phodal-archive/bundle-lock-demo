@@ -1,6 +1,6 @@
 {
   "name": "bundle-lock-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bundle lock demo testing for vue",
   "main": "index.js",
   "scripts": {
