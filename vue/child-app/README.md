@@ -22,3 +22,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Test
+
+add vue unit test
+
+```
+vue add @vue/unit-jest
+```
